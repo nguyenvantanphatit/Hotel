@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap');
+
+.col-form-detail {
+  margin-left: 100px;
+} 
+.king-detail {
+  font-size: 35px;
+  line-height: 24px;
+  font-family: 'Nunito', sans-serif;
+  color: #000000;
+}
+
+.book-avatar-detail {
+  display: flex;
+  justify-content: space-between;
+  width: 480px;
+  margin-top: 21px;
+  font-size: 20px;
+  line-height: 27px;
+  font-family: 'Nunito', sans-serif;
+  color: #000000;
+}
+
+.book-title-detail {
+  width: 480px;
+}
+
+.book-title-detail .lorem-detail {
+  font-size: 20px;
+  line-height: 27px;
+  font-family: 'Nunito', sans-serif;
+  color: #000000;
+}
+
+.book-title-detail .more-title-detail {
+  font-size: 20px;
+  line-height: 27px;
+  font-family: 'Nunito', sans-serif;
+  color: #000000;
+}
+.btn-book-detail {
+  width: 490px;
+  color: #000000;
+  height: 60px;
+  border-radius: 20px;
+  background-color: #F1E2D3;
+  border-inline-color: #C18346;
+  margin-top: 30px;
+  font-size: 23px;
+  line-height: 32px;
+  font-family: 'Nunito', sans-serif;
+}

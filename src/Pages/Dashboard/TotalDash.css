@@ -1,0 +1,27 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap');
+
+.row-dash {
+    display: flex;
+    margin-top: 42px;
+}
+.total-day {
+    width: 450px;
+    height: 401px;
+    background: orange;
+    border-radius: 40px;
+}
+.total-day-1 {
+    font-family: 'Nunito', sans-serif;
+    font-size: 24px;
+    line-height: 32px;
+    color: #FFFFFF;
+    margin: 24px 0 0 24px;
+}
+.total-day-2 {
+    font-family: 'Nunito', sans-serif;
+    font-size: 24px;
+    line-height: 32px;
+    color: #000000;
+    margin: 24px 0 0 24px;
+}

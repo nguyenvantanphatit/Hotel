@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap');
+
+
+.sign-title {
+    font-family: 'Nunito', sans-serif;
+    font-size: 36px;
+    line-height: 48px;
+    color: #201F1E;
+    text-align: center;
+}
+
+.form-sign {
+    font-family: 'Nunito', sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    color: #201F1E;
+    margin: 10px 0;
+}
+
+.form-item {
+    width: 335px;
+}
+
+.form-item-1 {
+    width: 748px;
+}
+.input {
+    height: 38px;
+}
+
+
+.signup-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form {
+    width: 828px;
+    height: 965px;
+}
+
+.close-icon {
+    margin-left: 740px;
+    margin-top: 20px;
+}
+
+.submit-button {
+    font-size: 16px;
+    background-color: #ED712E;
+    width: 748px;
+    height: 50px;
+    font-family: 'Nunito', sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FAFAFA;
+}
+
+.divContainer {
+    display: flex;
+    align-items: center;
+    margin-right: 80px;
+}
+
+.divLine {
+    flex: 1;
+    border-top: 1px solid #ECECEC;
+    margin-right: 8px;
+}
+
+.divText {
+    color: #A19F9D;
+    font-family: 'Nunito', sans-serif;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+.divLineLeft {
+    flex: 1;
+    border-top: 1px solid #ECECEC;
+    margin-left: 8px;
+}
+
+.login-link {
+    font-family: 'Nunito', sans-serif;
+    font-size: 15px;
+    line-height: 21px;
+    color: #6B7280;
+}
+
+.login-a {
+    font-family: 'Nunito', sans-serif;
+    font-size: 15px;
+    line-height: 21px;
+    color: #ED712E;
+}
+
+.facebook-button {
+    width: 748px;
+    background-color: #FFFFFF;
+    text-align: center;
+    position: relative;
+    font-family: 'Nunito', sans-serif;
+    font-size: 14px;
+    line-height: 24px;
+    color: #1C1C1E;
+}
+
+.google-button {
+    width: 748px;
+    background-color: #FFFFFF;
+    text-align: center;
+    position: relative;
+    font-family: 'Nunito', sans-serif;
+    font-size: 14px;
+    line-height: 24px;
+    color: #1C1C1E;
+}
+
+.facebook-icon {
+    position: absolute;
+    left: 10px;
+    top: 6px;
+}
+
+.google-icon {
+    position: absolute;
+    left: 5px;
+    top: 4px;
+}
+
+.login {
+    text-align: center;
+}

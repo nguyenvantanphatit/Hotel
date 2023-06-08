@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap');
+
+.col-form {
+  width: 100%;
+  margin: 0 200px;
+} 
+.king {
+  font-size: 35px;
+  line-height: 24px;
+  font-family: 'Nunito', sans-serif;
+  color: #000000;
+}
+
+.book-avatar {
+  display: flex;
+  justify-content: space-between;
+  width: 480px;
+  margin-top: 21px;
+  font-size: 20px;
+  line-height: 27px;
+  font-family: 'Nunito', sans-serif;
+  color: #000000;
+}
+
+.book-title {
+  width: 480px;
+}
+.row-btn-booking {
+  width: 490px;
+}
+.book-title .lorem {
+  font-size: 20px;
+  line-height: 27px;
+  font-family: 'Nunito', sans-serif;
+  color: #000000;
+}
+
+.book-title .more-title {
+  font-size: 20px;
+  line-height: 27px;
+  font-family: 'Nunito', sans-serif;
+  color: #000000;
+}
+
+.btn-booking-rom {
+  width: 490px;
+  color: #000000;
+  height: 60px;
+  border-radius: 20px;
+  background-color: #F1E2D3;
+  border-inline-color: #C18346;
+  margin-top: 30px;
+  font-size: 23px;
+  line-height: 32px;
+  font-family: 'Nunito', sans-serif;
+}
+
+
+.input-grid {
+  display: flex;
+  flex-direction: column;
+}
+
+.row {
+  width: 216px;
+  height: 49px;
+  border-radius: 20px;
+  border: 2px solid #E5E5E9;
+  margin: 12px 25px;
+}
+
+.input-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.input-item {
+  flex: 1;
+  width: 177px;
+  height: 21px;
+
+}
+
+.space {
+  margin: 0 12px;
+  border-radius: 20px;
+}
+
+.row-btn {
+  width: 497px;
+  height: 180px;
+  background: #F7F6FB;
+  border-radius: 20px;
+ margin-bottom: 20px;
+}
+.img-book {
+  margin: 60px 0;
+}

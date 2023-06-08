@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap');
+
+
+.title-line-payment::before {
+    content: '';
+    display: block;
+    border-bottom: 1px solid #000;
+    margin: 11px 0;
+    width: 654px;
+}
+
+.title-time-payment {
+    width: 654px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 11px 0 11px 36px;
+
+}
+
+.title-line-payment {
+    width: 654px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 36px;
+}
+
+.title-payment {
+    font-size: 35px;
+    line-height: 24px;
+    font-family: 'Nunito', sans-serif;
+    margin: 11px 0;
+}
+ 
+.description-payment {
+    width: 654px;
+    font-size: 20px;
+    line-height: 27px;
+    font-family: 'Nunito', sans-serif;
+    margin: 11px 0;
+}
+
+.checkmark {
+    font-size: 26px;
+    line-height: 24px;
+    font-family: 'Nunito', sans-serif;
+}
+
+.text-right-payment {
+    text-align: right;
+    font-size: 26px;
+    line-height: 24px;
+    font-family: 'Nunito', sans-serif;
+}
+.text-right-1-payment {
+    text-align: right;
+    font-size: 26px;
+    line-height: 24px;
+    font-family: 'Nunito', sans-serif;
+}
+.form-payment {
+     margin-left: 36px;
+     margin-top: 26px;
+}

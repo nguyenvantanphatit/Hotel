@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap');
+
+.btn {
+    position: absolute;
+    right: -15px;
+    top: -10px;
+    z-index: 1;
+    width: 10px;
+    height: 25px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #FC7D72;
+    border-color: #FC7D72;
+    color: #FFFFFF;
+}
+
+.form-room {
+    background: "#FFFFFF";
+    margin-left: 50px;
+}
+
+.room-name {
+    font-size: 36px;
+    color: #000000;
+    font-family: 'Nunito', sans-serif;
+}
+
+.title {
+    font-size: 36px;
+    line-height: 49px;
+    font-family: 'Nunito', sans-serif;
+}
+
+.view-room {
+    font-size: 24px;
+    line-height: 32px;
+    color: #BFC3CD;
+    font-family: 'Nunito', sans-serif;
+}
+
+.tooltip {
+    font-size: 24px;
+    line-height: 32px;
+    font-family: 'Nunito', sans-serif;
+}
+
+.card {
+    border: 1px solid #ABAFB7;
+    text-align: center;
+    border-radius: 10px;
+    height: 165px;
+    font-family: 'Nunito', sans-serif;
+}
+
+.time {
+    font-size: 15px;
+    line-height: 32px;
+    font-family: 'Nunito', sans-serif;
+}
+
+.room-list {
+    margin: 20px 0;
+}

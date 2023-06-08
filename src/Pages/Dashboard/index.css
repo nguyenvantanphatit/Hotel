@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap');
+
+
+.dash {
+    font-family: 'Nunito', sans-serif;
+    font-size: 36px;
+    line-height: 49px;
+    color: #000000;
+}
+.dash-layout {
+    background: #FFFFFF;
+}
+
+.search-dash {
+    display: flex;
+    align-items: center;
+}
